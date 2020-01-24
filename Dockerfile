@@ -1,4 +1,4 @@
-FROM automagicben/baseimage-ubuntu:2.4
+FROM automagicben/baseimage-ubuntu:latest
 
 ARG COMPOSER_VERSION=ba13e3fc70f1c66250d1ea7ea4911d593aa1dba5
 
